@@ -1,0 +1,16 @@
+
+python-dotenv>=0.5.1
+coverage>=4.0.3
+engarde>=0.3.1
+ipython>=4.1.2
+jupyter>=1.0.0
+matplotlib>=1.5.1
+notebook>=4.1.0
+numpy>=1.10.4
+pandas>=0.17.1
+scipy>=0.18.0
+prettyplotlib>=0.1.7
+seaborn>=0.7.0
+pytest>=2.9.2
+sklearn
+statsmodels

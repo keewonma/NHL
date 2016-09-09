@@ -1,0 +1,20 @@
+here's the tree structure of the folder structure of the NHL folder I place it all in:
+NHL
+├─────────── data
+	│   ├── external
+	│   ├── interim
+	│   ├── processed
+	│   │   ├── PCA_tsne_clusters.csv
+	│   │   └── SVD_tsne_clusters.csv
+	│   └── raw
+	│       ├── NHL_Forwards.csv
+	│       └── NHL_Forwards_v01.csv
+	├── models
+	├── notebooks
+	│   ├── Clustering\ NHL\ Players.ipynb
+	│   └── NHL\ Player\ Analysis\ (PPG).ipynb
+	├── reports
+	│   ├── Clustering+NHL+Players\ .html
+	│   ├── Clustering+NHL+Players.ipynb
+	│   └── figures
+	├── requirements.txt
